@@ -1,0 +1,9 @@
+"emp_id","emp_name","department_id","salary","manager_id"
+1,Ankit,100,10000,4
+2,Raj,100,15000,5
+3,Arun,100,10000,4
+4,Debo,100,10000,2
+5,Bro,200,5000,6
+6,Sayan,200,12000,2
+7,Bhasu,200,12000,2
+8,Aryan,200,9000,2

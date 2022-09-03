@@ -1,0 +1,36 @@
+Help on class Developer in module __main__:
+
+class Developer(Employee)
+ |  Developer(first, last, pay)
+ |  
+ |  Method resolution order:
+ |      Developer
+ |      Employee
+ |      builtins.object
+ |  
+ |  Methods inherited from Employee:
+ |  
+ |  __init__(self, first, last, pay)
+ |      Initialize self.  See help(type(self)) for accurate signature.
+ |  
+ |  apply_raise(self)
+ |  
+ |  fullname(self)
+ |  
+ |  ----------------------------------------------------------------------
+ |  Data descriptors inherited from Employee:
+ |  
+ |  __dict__
+ |      dictionary for instance variables (if defined)
+ |  
+ |  __weakref__
+ |      list of weak references to the object (if defined)
+ |  
+ |  ----------------------------------------------------------------------
+ |  Data and other attributes inherited from Employee:
+ |  
+ |  num_of_empl = 2
+ |  
+ |  raise_amount = 1.5
+
+None
